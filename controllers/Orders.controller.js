@@ -1,7 +1,7 @@
 const Order = require("../models/Orders.model");
 const OrderDishes = require("../models/OrderDishes.model");
 const User = require("../models/User.model");
-const Dish = require("../models/Dishes.model");
+const Dish = require("../models/Dishes.Model");
 const axios = require('axios')
 
 
